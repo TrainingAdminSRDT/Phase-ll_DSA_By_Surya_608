@@ -410,5 +410,34 @@ public:
 
     }
 };
+//  Stack operations
+#include <iostream>
+#include <stack>
+#include <string>
+using namespace std;
 
+int main() {
+    stack<char> s;
+    string ip = "abc#d##f";
 
+    for (int i = 0; i < ip.size(); i++) {
+        if (ip[i] == '#') {
+            if (!s.empty()) {
+                s.pop();
+            }
+        }
+        else {
+            s.push(ip[i]);
+        }
+    }
+
+    string ans = "";
+
+    while (!s.empty()) {
+        ans += s.top();
+        s.pop();
+    }
+
+    cout << ans;
+    return 0;
+}
