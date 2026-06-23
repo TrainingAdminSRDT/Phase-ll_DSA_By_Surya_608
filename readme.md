@@ -10,12 +10,14 @@ LeetCode solutions in Java.
 | 7 | Reverse Integer | Medium |
 | 20 | Valid Parentheses | Easy |
 | 21 | Merge Two Sorted Lists | Easy |
+| 90 | Subsets II | Medium |
 | 26 | Remove Duplicates from Sorted Array | Easy |
 | 35 | Search Insert Position | Easy |
 | 56 | Merge Intervals | Medium |
 | 58 | Length of Last Word | Easy |
 | 88 | Merge Sorted Array | Easy |
 | 100 | Same Tree | Easy |
+| 144 | Binary Tree Preorder Traversal | Easy |
 | 101 | Symmetric Tree | Easy |
 | 136 | Single Number | Easy |
 | 160 | Intersection of Two Linked Lists | Easy |
@@ -28,6 +30,7 @@ LeetCode solutions in Java.
 | 367 | Valid Perfect Square | Easy |
 | 520 | Detect Capital | Easy |
 | 643 | Maximum Average Subarray I | Easy |
+| 700 | Search in a Binary Search Tree | Easy |
 | 704 | Binary Search | Easy |
 | 709 | To Lower Case | Easy |
 | 876 | Middle of the Linked List | Easy |
