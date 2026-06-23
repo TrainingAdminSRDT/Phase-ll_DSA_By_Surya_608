@@ -1,7 +1,3 @@
-// LeetCode 367. Valid Perfect Square
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/valid-perfect-square/
-
 class Solution {
     public boolean isPerfectSquare(int num) {
         if (num < 1) return false;

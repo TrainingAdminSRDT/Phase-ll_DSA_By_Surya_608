@@ -1,7 +1,3 @@
-// LeetCode 704. Binary Search
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/binary-search/
-
 class Solution {
     public int search(int[] nums, int target) {
         int left = 0, right = nums.length - 1;

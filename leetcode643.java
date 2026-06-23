@@ -1,7 +1,3 @@
-// LeetCode 643. Maximum Average Subarray I
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/maximum-average-subarray-i/
-
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         double windowSum = 0;

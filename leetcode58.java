@@ -1,7 +1,3 @@
-// LeetCode 58. Length of Last Word
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/length-of-last-word/
-
 class Solution {
     public int lengthOfLastWord(String s) {
         s = s.trim();

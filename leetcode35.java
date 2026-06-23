@@ -1,7 +1,3 @@
-// LeetCode 35. Search Insert Position
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/search-insert-position/
-
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int left = 0, right = nums.length - 1;

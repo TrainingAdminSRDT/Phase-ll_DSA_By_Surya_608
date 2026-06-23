@@ -1,7 +1,3 @@
-// LeetCode 56. Merge Intervals
-// Difficulty: Medium
-// Link: https://leetcode.com/problems/merge-intervals/
-
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;

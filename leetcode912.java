@@ -1,7 +1,3 @@
-// LeetCode 912. Sort an Array
-// Difficulty: Medium
-// Link: https://leetcode.com/problems/sort-an-array/
-
 import java.util.Arrays;
 
 class Solution {

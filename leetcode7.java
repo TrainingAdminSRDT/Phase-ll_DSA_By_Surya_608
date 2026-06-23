@@ -1,7 +1,3 @@
-// LeetCode 7. Reverse Integer
-// Difficulty: Medium
-// Link: https://leetcode.com/problems/reverse-integer/
-
 class Solution {
     public int reverse(int x) {
         long reversed = 0;

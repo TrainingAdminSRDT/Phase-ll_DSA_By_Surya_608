@@ -1,7 +1,3 @@
-// LeetCode 977. Squares of a Sorted Array
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/squares-of-a-sorted-array/
-
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;

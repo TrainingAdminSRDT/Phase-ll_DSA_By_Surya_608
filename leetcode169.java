@@ -1,7 +1,3 @@
-// LeetCode 169. Majority Element
-// Difficulty: Easy
-// Link: https://leetcode.com/problems/majority-element/
-
 class Solution {
     public int majorityElement(int[] nums) {
         int candidate = nums[0], count = 1;
